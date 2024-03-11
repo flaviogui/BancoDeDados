@@ -1,2 +1,2 @@
 # BancoDeDados
-Repositório destinado às atividades da disciplina de Banco de Dados I.
+Repositório destinado às atividades da disciplina de Projeto e Administração de Banco de Dados.
