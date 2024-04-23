@@ -10,3 +10,4 @@ ORM (Object-Relational Mapping) em Python é uma técnica que mapeia objetos de 
 
 ## Link dos Scripts
 - [ODBC](odbc.py)
+- [ORM](orm.py)
