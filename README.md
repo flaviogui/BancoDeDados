@@ -7,4 +7,4 @@ Nome: Flávio Glaydson Guimarães Lopes
 <br>Matrícula: 20220046917
 
 ### Tarefa
-- Link da tarefa de ORM (https://github.com/flaviogui/BancoDeDados/blob/main/tarefas/orm/tarefa-orm.md)
+- Link da tarefa de ORM: https://github.com/flaviogui/BancoDeDados/blob/main/tarefas/orm/tarefa-orm.md
